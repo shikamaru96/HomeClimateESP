@@ -22,6 +22,7 @@ Repository structure
 /README.md             → Project documentation (this file)
 /sdkconfig             → ESP-IDF configuration (auto-generated)
 /components            → Additional ESP-IDF components (if required)
+/partitions_4mb_optimised.csv 
 
 Key Features
 +Environmental Monitoring
